@@ -1,6 +1,6 @@
-# Python-leep-year-or-not
-# this code helps you establish whether the year you enter is a leap year or not.
-# Forexample I had the following responses as seen below:
+## Python-leep-year-or-not
+## this code helps you establish whether the year you enter is a leap year or not.
+## Forexample I had the following responses as seen below:
 
 ### When I entered 2019, I got rensponse
     ## Please enter the year for check leap or not: 2019
